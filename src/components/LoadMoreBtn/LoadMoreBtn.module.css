@@ -1,0 +1,11 @@
+.button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 50px;
+}
+
+.loadmorebutton {
+  margin-left: auto;
+  margin-right: auto;
+}
